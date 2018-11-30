@@ -1,4 +1,4 @@
-# nbspikes.github.io-
+# nbspikes.github.io
 
 The nbspikes welcome page.
 
