@@ -10,10 +10,10 @@ Early examples:
   * [Design Demo](https://nbviewer.jupyter.org/github/nbspikes/style/blob/master/DesignDemo.ipynb)
 
 Accompanying Notebooks for the "NumPy / SciPy Recipes for Data Science" Series:
-  * Ordinary Least Squares Optimization (TBD)
-  * [Non-Linear Least Squares Optimization](https://nbviewer.jupyter.org/github/nbspikes/recipies/blob/master/Non-Linear%20Least%20Squares%20Optimization.ipynb)
-  * [Regularized Least Squares Optimization](https://nbviewer.jupyter.org/github/nbspikes/recipies/blob/master/Regularized%20Least%20Squares%20Optimization.ipynb)
-  * [Kernel Least Squares Optimization](https://nbviewer.jupyter.org/github/nbspikes/recipies/blob/master/Kernel%20Least%20Squares%20Optimization.ipynb)
+  * [Least Squares Optimization for Parameter Estimation](https://nbviewer.jupyter.org/github/nbspikes/recipes/blob/master/Least%20Squares%20Optimization%20for%20Parameter%20Estimation.ipynb)
+  * [Non-Linear Least Squares Optimization](https://nbviewer.jupyter.org/github/nbspikes/recipes/blob/master/Non-Linear%20Least%20Squares%20Optimization.ipynb)
+  * [Regularized Least Squares Optimization](https://nbviewer.jupyter.org/github/nbspikes/recipes/blob/master/Regularized%20Least%20Squares%20Optimization.ipynb)
+  * [Kernel Least Squares Optimization](https://nbviewer.jupyter.org/github/nbspikes/recipes/blob/master/Kernel%20Least%20Squares%20Optimization.ipynb)
 
 Extensive LDA Spike:
   * [Configuration](https://nbviewer.jupyter.org/github/nbspikes/lda/blob/master/LDA%20Spike%20-%20Configuration.ipynb)
