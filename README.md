@@ -10,7 +10,7 @@ Early examples:
   * [Design Demo](https://nbviewer.jupyter.org/github/nbspikes/style/blob/master/DesignDemo.ipynb)
 
 Accompanying Notebooks for the "NumPy / SciPy Recipes for Data Science" Series:
-  * [Least Squares Optimization for Parameter Estimation](https://nbviewer.jupyter.org/github/nbspikes/recipes/blob/master/Least%20Squares%20Optimization%20for%20Parameter%20Estimation.ipynb)
+  * [Ordinary Least Squares Optimization](https://nbviewer.jupyter.org/github/nbspikes/recipes/blob/master/Ordinary%20Least%20Squares%20Optimization.ipynb)
   * [Non-Linear Least Squares Optimization](https://nbviewer.jupyter.org/github/nbspikes/recipes/blob/master/Non-Linear%20Least%20Squares%20Optimization.ipynb)
   * [Regularized Least Squares Optimization](https://nbviewer.jupyter.org/github/nbspikes/recipes/blob/master/Regularized%20Least%20Squares%20Optimization.ipynb)
   * [Kernel Least Squares Optimization](https://nbviewer.jupyter.org/github/nbspikes/recipes/blob/master/Kernel%20Least%20Squares%20Optimization.ipynb)
