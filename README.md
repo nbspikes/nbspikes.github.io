@@ -21,3 +21,9 @@ Extensive LDA Spike:
 
 LDA Didactic Examples:
   * [LDA on Returns](https://nbviewer.jupyter.org/github/nbspikes/lda/blob/master/LDA%20on%20Returns.ipynb)
+
+[This is just a test link](lda)
+
+[This is just a test link](lda.md)
+
+[This is just a test link](lda.html)
